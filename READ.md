@@ -1,3 +1,0 @@
-# CircuitPython
-My Circuitpython assignments
-
