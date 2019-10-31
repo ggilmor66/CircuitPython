@@ -4,12 +4,12 @@ My Circuitpython assignments
 ## Hello Circuit Python
   ### Objective:
     For this assignment, we where supposed to code an LED on a metro Express board, these are new to us this year, to fade in and out. 
- ### Things I learned:
+  ### Things I learned:
     
 ## CircuitPython Servo
-  ## Objective:
+  ### Objective:
   
-  ## Things I Learned
+  ### Things I Learned:
   
 ## Circuit Python LCD
   ### Objective:
