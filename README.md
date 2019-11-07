@@ -13,7 +13,7 @@ My Circuitpython assignments
   ### Things I Learned: 
    I learned about Capacitive Touch through this assignment. This is a really cool technology that I didn't even know existed before starting this asssignment. Basically, when you touch one of the wires, it sends a signal to the metro and then based on your code it moves the servo whatever direction you have that wire set up to move.
    ### Pictures:
-   ![GitHub Octocat](media/Circuit Python Servo Fritzing.PNG)
+   ![GitHub Octocat](Media/CircuitPythonServoFritzing.PNG)
   
 ## Circuit Python LCD
   ### Objective:
