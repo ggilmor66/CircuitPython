@@ -20,6 +20,8 @@ My Circuitpython assignments
   For this assignment, we where tasked with making a LCD count up or down based on the position of a switch. Everytime a button was pressed, the LCD would count up or down 1 based on the switches location.
   ### Things I Learned:
   I ran into some problems with when I would hold the button down and it would count more then 1. I learned to code it aso it would only count one time no matter how long it was pressed for. I also learned all about how buttons and switches can be used together to make a pretty cool device.
+  ### Pictures:
+   ![GitHub Octocat](Media/LCDFritzing.PNG)
   
 ## CircuitPython Photouinterrupters
   ### Objective:
