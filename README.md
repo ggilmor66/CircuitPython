@@ -30,9 +30,12 @@ was and how many times a button has been pressed in that position. These files a
    ![GitHub Octocat](Media/LCDFritzing.PNG)
   
 ## CircuitPython Photouinterrupters
-  ### Objective:
+  ### Objective: 
+  For this assignment, I wired a Photointerrupter to print how many times it has been interrupted on an LCD screen.
   
-  ### Things I Learned:
+  ### Things I Learned: 
+  I got stuck on thecv fact that I could not use time.sleep in the code. It took me a couple of days to figure out how to get the photointerrupter to update to the LCD only when interrupter. After some trial and error, I figured out to use fread = true and lread = true statements. 
+  ### Picture:
   
 ## CircuitPython Distance Sensor
   ### Objective:
