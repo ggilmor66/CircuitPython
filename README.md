@@ -54,8 +54,9 @@ was and how many times a button has been pressed in that position. These files a
   
 ## Fancy LED
  ### Objective:
+ Have a line of 6 LED's alternate, blink, chase, and sparkle using fancyLED.
  
- ### Things I Learned:
+ ### Things I Learned: 
  
  ### Picture:
   
