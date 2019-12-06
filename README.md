@@ -43,6 +43,15 @@ was and how many times a button has been pressed in that position. These files a
   
   ### Things I Learned:
   
+  ### Picture:
+  
+## Hello VS Code
+  ### Objective: 
+  Figure out how to use VS Code to run CircuitPython
+  
+  ### Things I Learned:
+  I learned how to use this new platform rather then using Mu code. I also learned how much easier it is with VS to commit and add things to GitHub.
+  
 ## Fancy LED
  ### Objective:
  
