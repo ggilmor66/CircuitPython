@@ -67,7 +67,10 @@ was and how many times a button has been pressed in that position. These files a
 Design four gears with different measurments using variables andc equations
 
 ### Picture:
-
+![GitHub Octocat](Media/GearsSW1.PNG)
+![GitHub Octocat](Media/GearsSW2.PNG)
+![GitHub Octocat](Media/GearsSW3.PNG)
+![GitHub Octocat](Media/GearsSW4.PNG)
 ### Things I Learned:
   
 
