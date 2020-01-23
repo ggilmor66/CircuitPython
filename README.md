@@ -60,6 +60,8 @@ was and how many times a button has been pressed in that position. These files a
  
  ### Picture:
  
+# SolidWorks
+ 
 ## Gears
 ### Objective: 
 Design four gears with different measurments using variables andc equations
