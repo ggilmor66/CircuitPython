@@ -72,5 +72,6 @@ Design four gears with different measurments using variables andc equations
 ![GitHub Octocat](Media/GearsSW3.PNG)
 ![GitHub Octocat](Media/GearsSW4.PNG)
 ### Things I Learned:
+I learned how to make different sized gears in thwe same file using equations and variables. This skill is helpful going forward as it saves time when making more complex parts.
   
 
