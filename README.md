@@ -74,4 +74,13 @@ Design four gears with different measurments using variables andc equations
 ### Things I Learned:
 I learned how to make different sized gears in thwe same file using equations and variables. This skill is helpful going forward as it saves time when making more complex parts.
   
+## Gearbox
+### Objective: 
+Design a box that will hold different sized gears that are all connected and will spin with the turn of a knob that one of the gears is connected to. The turning of this one gear will then turn all the other gears that are coonected through out the box. Different sized gears will be used.
+
+### Picture: 
+![GitHub Octocat](Media/gearbox.png)
+![GitHub Octocat](Media/knob.png)
+### Things I Learned:
+After doing this assingment, I have a better understanding of how gears works. I understand how to use their redi to determine the distance needed inbetween two gears when trying to get them to mesh correctly to do the intended purpose. This is important as using gears can be very valuable in the production of future parts. 
 
